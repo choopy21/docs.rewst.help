@@ -33,6 +33,8 @@ The colors of transitions in your workflow visualization are indicative of the t
 
 The "_Run as Org_" option allows the workflow action to run in the context of another organization.
 
+Note that "_Run as Org_" cannot be run as the Parent Organization.
+
 ### With Items
 
 "With Items" is the equivalent to your "foreach" in other languages.
